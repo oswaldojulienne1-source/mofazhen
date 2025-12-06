@@ -1,0 +1,7 @@
+{
+  "name": "3D魔法阵",
+  "description": "Real-time Doctor Strange Magic Shield generator using Hand Tracking and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
